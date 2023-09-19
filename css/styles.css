@@ -4,3 +4,9 @@
   background: #000;
   opacity: 0.001;
 }
+
+#hello-world {
+  background-color: #4e6881;
+  color: chartreuse;
+  opacity: 0.5;
+}
